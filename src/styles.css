@@ -159,3 +159,14 @@ img.socialIcon {
 /* background-image: image("images/about.jpg"); */
 background-color: #404B69;
 }
+html {
+  scroll-behavior: smooth;
+}
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
