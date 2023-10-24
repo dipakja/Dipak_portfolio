@@ -19,7 +19,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+// import image from "../images/projects.jpeg";
+import image from "../images/projects.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +32,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Programming contest Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is web-portal where you can find the latest contest running on various online platforms.",
+    url: "https://programming-contest-dipak.netlify.app/#home",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DBank",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "DBank is a decentralized application (dApp) that provides users with the ability to interact with a decentralized finance (DeFi) smart contract. This dApp allows users to deposit, withdraw, and view their balance in a secure and trustless manner. ",
+    url: "https://github.com/dipakja/Dbank",
   },
   {
-    title: "My Resume Site",
+    title: "Todo App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is todo react web app. ",
+    url: "https://github.com/dipakja/TodoApp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "DSA-JAVA ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This  is an github repo where i upload my DSA question or learning",
+    url: "https://github.com/dipakja/DSA-JAVA",
   },
 ];
 
