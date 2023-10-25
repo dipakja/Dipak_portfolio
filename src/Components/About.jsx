@@ -35,7 +35,7 @@ const skillsList = [
   "CSS",
   "JS",
   "Linux",
-  "GITHUB"
+  "GitHub"
 ];
 
 /**
